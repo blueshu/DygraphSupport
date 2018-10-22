@@ -1,0 +1,14 @@
+{
+    "url": "http://10.0.4.101:3008",
+    "secret": "75d3c24d-9c34-42e7-bdb5-6d2694cbd536",
+    "database": "mongo",
+    "mongo": {
+        "host": "127.0.0.1",
+        "port": 27017,
+        "username": "Kevin",
+        "password": "123qwe",
+        "database": "NodeBB",
+        "uri": "mongodb://Kevin:123qwe@127.0.0.1:27017/NodeBB"
+    },
+    "port": "3008"
+}
