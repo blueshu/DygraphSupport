@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-14T01:09:38.216Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="trGOLU40pvAdesFdnzWR" version="13.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-06-14T01:24:13.196Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="CBiMm4c7Ykt-ShPzZRdD" version="13.2.4" type="github" pages="2">
   <diagram id="aHEvE2OqliZMiB86n18R" name="Page-1">
     <mxGraphModel dx="946" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,63 @@
       <root>
         <mxCell id="ycq4xH3s7H17sO0cr9Ab-0" />
         <mxCell id="ycq4xH3s7H17sO0cr9Ab-1" parent="ycq4xH3s7H17sO0cr9Ab-0" />
+        <mxCell id="TiHmJW6wNYYwMfDLCf9X-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ycq4xH3s7H17sO0cr9Ab-1" source="TiHmJW6wNYYwMfDLCf9X-0" target="TiHmJW6wNYYwMfDLCf9X-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TiHmJW6wNYYwMfDLCf9X-0" value="项目现场发起申请" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ycq4xH3s7H17sO0cr9Ab-1">
+          <mxGeometry x="70" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TiHmJW6wNYYwMfDLCf9X-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ycq4xH3s7H17sO0cr9Ab-1" source="TiHmJW6wNYYwMfDLCf9X-2" target="TiHmJW6wNYYwMfDLCf9X-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TiHmJW6wNYYwMfDLCf9X-7" value="无" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TiHmJW6wNYYwMfDLCf9X-5">
+          <mxGeometry x="-0.2903" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TiHmJW6wNYYwMfDLCf9X-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ycq4xH3s7H17sO0cr9Ab-1" source="TiHmJW6wNYYwMfDLCf9X-2" target="TiHmJW6wNYYwMfDLCf9X-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TiHmJW6wNYYwMfDLCf9X-2" value="是否有数据" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ycq4xH3s7H17sO0cr9Ab-1">
+          <mxGeometry x="210" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TiHmJW6wNYYwMfDLCf9X-3" value="&lt;h1&gt;输出准则（单位）数据生成+整合（2）+检验（2））&lt;/h1&gt;&lt;p&gt;全国&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 20（矢量地图）&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; -- （删格地图）&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 30（性能优化）&lt;/p&gt;&lt;p&gt;省&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;10&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 20&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;15&lt;/p&gt;&lt;p&gt;市（区县）&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;5&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 10&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 8&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="ycq4xH3s7H17sO0cr9Ab-1">
+          <mxGeometry x="270" y="40" width="570" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TiHmJW6wNYYwMfDLCf9X-6" value="生产数据（引擎团队）&lt;br&gt;对接人：高坡" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ycq4xH3s7H17sO0cr9Ab-1">
+          <mxGeometry x="414" y="230" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TiHmJW6wNYYwMfDLCf9X-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ycq4xH3s7H17sO0cr9Ab-1" source="TiHmJW6wNYYwMfDLCf9X-8" target="TiHmJW6wNYYwMfDLCf9X-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TiHmJW6wNYYwMfDLCf9X-8" value="确定KMap Server版本（功能覆盖）(引擎团队)&lt;br&gt;对接人：范佳伟" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ycq4xH3s7H17sO0cr9Ab-1">
+          <mxGeometry x="115" y="390" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TiHmJW6wNYYwMfDLCf9X-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ycq4xH3s7H17sO0cr9Ab-1" source="TiHmJW6wNYYwMfDLCf9X-12" target="TiHmJW6wNYYwMfDLCf9X-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TiHmJW6wNYYwMfDLCf9X-12" value="数据服务包输出质检（测试团队）&lt;br&gt;对接人：祁特" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ycq4xH3s7H17sO0cr9Ab-1">
+          <mxGeometry x="137.5" y="525" width="225" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TiHmJW6wNYYwMfDLCf9X-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ycq4xH3s7H17sO0cr9Ab-1" source="TiHmJW6wNYYwMfDLCf9X-14" target="TiHmJW6wNYYwMfDLCf9X-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TiHmJW6wNYYwMfDLCf9X-14" value="部署-确保最佳实践运行成功（运维团队）&lt;br&gt;对接人：谈菁钰" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ycq4xH3s7H17sO0cr9Ab-1">
+          <mxGeometry x="137.5" y="650" width="225" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TiHmJW6wNYYwMfDLCf9X-16" value="现场部署情况确认，版本记录（产品团队）&lt;br&gt;对接人：贾东会" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ycq4xH3s7H17sO0cr9Ab-1">
+          <mxGeometry x="137.5" y="790" width="225" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TiHmJW6wNYYwMfDLCf9X-18" value="1-2D" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ycq4xH3s7H17sO0cr9Ab-1">
+          <mxGeometry x="20" y="420" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TiHmJW6wNYYwMfDLCf9X-19" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;1-2D&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="ycq4xH3s7H17sO0cr9Ab-1">
+          <mxGeometry x="30" y="540" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
