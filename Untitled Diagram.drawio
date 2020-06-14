@@ -1,1 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2020-06-09T09:11:59.532Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="uCLXg9_k5Q4QriTRCcUx" version="13.1.1" type="github"><diagram id="aHEvE2OqliZMiB86n18R" name="Page-1">3VhNj6M4EP01Po7ERwD7CASmD/sxUkYaaS8rK7iBHoIjx0k6++u3yjaBNHSrWxoprbkg+7lcdr16VZCQMN89f1V83/wpK9GRwKueSbgmQcBWMTwRuFggZMwCtWorC/kjsGn/Ew70HHpsK3G4MdRSdrrd34Jb2fdiq28wrpQ835o9yu721D2vxQzYbHk3R3+0lW4sSoNkxB9EWzfDyX7s4tvxwdhFcmh4Jc8TKCxImCsptR3tnnPRIXcDL3Zf+crq9WJK9Po9G/59enjKLvyvh3obfttnj/+UP/7+ElovJ94dXcDusvoyMCAqIMRNpdKNrGXPu2JEMyWPfSXwGA9mo80fUu4B9AF8ElpfXHb5UUuAGr3r3Ko9Ew96NTYHHeRRbcUbAQ0a4aoW+g274JoBUK6QO6HVBfYp0XHdnm7vwZ2G6qvdSDMMHNMfYN2fsc6rCoCOX4SaJWCkF7k6N60Wmz03LJyh5paoPAmlxfPbZM6DHzYkTrGuZP3Yzc9jAfiDqpuJ+Ae7X85X9LupNHinSlf3VGnwikorxeuMb3+KHmfihNHfW7Php9Ns8rtpdvVOzcb31OxqznoREVqStCTFimQZSSNSxIRmhMVmKSUpJUVJspzQHJGMkSw2xpSwFSLpilAYJIR5hMa4PV0juOCHkrQgWTHsSnDAcrOUkDTBC0yNs9LYJDgFV/ZQcG4H1A5ywlLjOSBptuTHHJF5ZpCZ0+Fi1FwMnMCdI9wFflKGSxCUtUFjEwVYZt5Mnveu4dC7dw3HC2qa5zzCnKN2LOveRGiRkUxhtDOQDdM0gg9MPD3/Do+NUCd87XtOEWCJ2faNz7mgTPJB0TiAC1jNwiD+hCmNPl1K6UJbjjuNkUMocY0jpJYybARY6gXmGfNQDtRSzKHbBZeYbHRg1Z5GX9NuUThVYEMKl6o8Mscwk9M1YaExZsbmI3nHXb5ziCr1zNKa0HCpn4WmSQRvHrFCZabF0D/Y7Z3XSMrY6mxcbOhn6XAxG1dujiiH7RN+nA08Q8KiSVc2F2Pl4Nlbqos5CdftU+Yj9waAqyKrlh9/afuVlhidUNs7E/NyYGawcg4pnVQ6Q29Z6qjDSOeeE3TrOISkrL9+20z0NFXPywKGUtS3VXrQSv4UueykAqSXPX43PLZd9wI6QJ23fQ1ANM6+m8+IL4H3SjeQUP2PnfnV2rRVJfrZN8kvaBJx8OLbLVloEmyhSVw7xwe6BEzHn9xmbfK/RVj8Dw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-14T01:09:38.216Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="trGOLU40pvAdesFdnzWR" version="13.2.4" type="github" pages="2">
+  <diagram id="aHEvE2OqliZMiB86n18R" name="Page-1">
+    <mxGraphModel dx="946" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_jHjByaNHgc3PpBfZFWO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_jHjByaNHgc3PpBfZFWO-1" target="_jHjByaNHgc3PpBfZFWO-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_jHjByaNHgc3PpBfZFWO-1" value="add layer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_jHjByaNHgc3PpBfZFWO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_jHjByaNHgc3PpBfZFWO-2" target="_jHjByaNHgc3PpBfZFWO-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_jHjByaNHgc3PpBfZFWO-2" value="add dragBackend event" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_jHjByaNHgc3PpBfZFWO-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_jHjByaNHgc3PpBfZFWO-4" target="_jHjByaNHgc3PpBfZFWO-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_jHjByaNHgc3PpBfZFWO-4" value="可以拖动，并且处理此拖动设备在移动过程中不会被移动地图或者缩放更新" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_jHjByaNHgc3PpBfZFWO-6" value="拖动完成以后直接call CT Server 进行设备经纬度更新" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_jHjByaNHgc3PpBfZFWO-8" value="&lt;h1&gt;特殊说明&lt;/h1&gt;&lt;div&gt;此接口不会对当前经纬度更新做加权处理。经纬度修改会存在三个方式：此方法，统一设备更新，接入服务更新。按时间先后顺序更新点位GPS&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="620" y="170" width="190" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Q_RVYOdgUXFoioAYz1tq" name="Page-2">
+    <mxGraphModel dx="946" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ycq4xH3s7H17sO0cr9Ab-0" />
+        <mxCell id="ycq4xH3s7H17sO0cr9Ab-1" parent="ycq4xH3s7H17sO0cr9Ab-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
