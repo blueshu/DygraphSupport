@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-20T13:07:58.487Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="WiVdsXkgzjIF3vZzGvm4" version="14.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-20T13:09:26.095Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="uWe_e_Ag1Ohvp0CQRJ_D" version="14.1.1" type="github" pages="2">
   <diagram id="htu8tuTBs0NoOkx3hSJT" name="Page-1">
     <mxGraphModel dx="1395" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OG4e_7vGfnLu0VoYxxTo-6" value="&amp;nbsp;管理人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="850" width="30" height="60" as="geometry" />
+          <mxGeometry x="60" y="568.53" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OG4e_7vGfnLu0VoYxxTo-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OG4e_7vGfnLu0VoYxxTo-7" target="OG4e_7vGfnLu0VoYxxTo-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -80,36 +80,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OG4e_7vGfnLu0VoYxxTo-17" value="开放平台管理门户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="280" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="568.53" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OG4e_7vGfnLu0VoYxxTo-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="OG4e_7vGfnLu0VoYxxTo-17" target="OG4e_7vGfnLu0VoYxxTo-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="990" />
+              <mxPoint x="320" y="708.53" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OG4e_7vGfnLu0VoYxxTo-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="OG4e_7vGfnLu0VoYxxTo-19" target="OG4e_7vGfnLu0VoYxxTo-34" edge="1">
+        <mxCell id="OG4e_7vGfnLu0VoYxxTo-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="OG4e_7vGfnLu0VoYxxTo-19" target="OG4e_7vGfnLu0VoYxxTo-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="722" />
+              <mxPoint x="620" y="583.53" />
+              <mxPoint x="620" y="590.53" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OG4e_7vGfnLu0VoYxxTo-19" value="分配用户SDK可下载的权限" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="530" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="568.53" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OG4e_7vGfnLu0VoYxxTo-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.31;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="OG4e_7vGfnLu0VoYxxTo-25" target="OG4e_7vGfnLu0VoYxxTo-34" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="690" y="990" />
-              <mxPoint x="690" y="870" />
-              <mxPoint x="1007" y="870" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ddhS4VfFcEkWSyBX9v4R-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OG4e_7vGfnLu0VoYxxTo-25" target="OG4e_7vGfnLu0VoYxxTo-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OG4e_7vGfnLu0VoYxxTo-25" value="分配可调用的服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="530" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="678.53" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OG4e_7vGfnLu0VoYxxTo-28" value="服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="510" y="310" width="120" height="60" as="geometry" />
@@ -121,7 +116,7 @@
           <mxGeometry x="510" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OG4e_7vGfnLu0VoYxxTo-34" value="开放平台服务" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="970" y="690" width="120" height="80" as="geometry" />
+          <mxGeometry x="970" y="558.53" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OG4e_7vGfnLu0VoYxxTo-42" value="展示令牌，展示可访问的服务，数据，可使用客户端模块.客户端SDK下载" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="740" y="410" width="250" height="60" as="geometry" />
