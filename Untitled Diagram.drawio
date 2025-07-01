@@ -876,97 +876,97 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-1" value="支撑模块" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="157" y="110" width="120" height="360" as="geometry" />
+          <mxGeometry x="80" y="110" width="120" height="360" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-2" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="167" y="170" width="100" height="40" as="geometry" />
+          <mxGeometry x="90" y="170" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-3" value="开发中心" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="167" y="240" width="100" height="40" as="geometry" />
+          <mxGeometry x="90" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-4" value="应用画像" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="167" y="320" width="100" height="40" as="geometry" />
+          <mxGeometry x="90" y="320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-5" value="GIS运维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="167" y="400" width="100" height="40" as="geometry" />
+          <mxGeometry x="90" y="400" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-6" value="GIS地图引擎" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="297" y="110" width="510" height="70" as="geometry" />
+          <mxGeometry x="220" y="80" width="510" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-7" value="KMap二维渲染引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="317" y="130" width="100" height="40" as="geometry" />
+          <mxGeometry x="240" y="130" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-8" value="KMap三维渲染引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="502" y="130" width="100" height="40" as="geometry" />
+          <mxGeometry x="425" y="130" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-9" value="KMap-Android" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="697" y="130" width="100" height="40" as="geometry" />
+          <mxGeometry x="620" y="130" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-10" value="位置服务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="297" y="200" width="190" height="270" as="geometry" />
+          <mxGeometry x="220" y="200" width="190" height="270" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-11" value="地图服务" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="507" y="200" width="190" height="270" as="geometry" />
+          <mxGeometry x="430" y="200" width="190" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="CvdLX2YhdFQQ_mZj3J4u-12" value="时空数据中心" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="157" y="480" width="670" height="80" as="geometry" />
+        <mxCell id="CvdLX2YhdFQQ_mZj3J4u-12" value="景区数据中心" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="670" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-13" value="数据推送服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="337" y="220" width="100" height="40" as="geometry" />
+          <mxGeometry x="260" y="220" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-14" value="平台管理服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="337" y="270" width="100" height="40" as="geometry" />
+          <mxGeometry x="260" y="270" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-15" value="数据分析查询服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="337" y="315" width="100" height="40" as="geometry" />
+          <mxGeometry x="260" y="315" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-16" value="数据存储服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="337" y="360" width="100" height="40" as="geometry" />
+          <mxGeometry x="260" y="360" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-17" value="基础时空数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="167" y="515" width="100" height="40" as="geometry" />
+          <mxGeometry x="90" y="515" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-18" value="业务数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="402" y="515" width="100" height="40" as="geometry" />
+          <mxGeometry x="325" y="515" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-19" value="专题数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="517" y="515" width="100" height="40" as="geometry" />
+          <mxGeometry x="440" y="515" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-20" value="地图打印服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="552" y="250" width="100" height="40" as="geometry" />
+          <mxGeometry x="475" y="250" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-21" value="地图发布服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="552" y="315" width="100" height="40" as="geometry" />
+          <mxGeometry x="475" y="315" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-22" value="自动发布平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="717" y="200" width="90" height="40" as="geometry" />
+          <mxGeometry x="640" y="200" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-23" value="制图平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="717" y="260" width="90" height="40" as="geometry" />
+          <mxGeometry x="640" y="260" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-24" value="地理要素管理平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="717" y="320" width="90" height="40" as="geometry" />
+          <mxGeometry x="640" y="320" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-25" value="时空网关" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="157" y="590" width="670" height="40" as="geometry" />
+          <mxGeometry x="80" y="590" width="670" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-26" value="时空三维数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="287" y="515" width="100" height="40" as="geometry" />
+          <mxGeometry x="210" y="515" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-27" value="LBS服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="552" y="390" width="100" height="40" as="geometry" />
+          <mxGeometry x="475" y="390" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-28" value="卫星影像数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="627" y="515" width="100" height="40" as="geometry" />
+          <mxGeometry x="550" y="515" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-29" value="地图瓦片数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="727" y="515" width="100" height="40" as="geometry" />
+          <mxGeometry x="650" y="515" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-30" value="轨迹优化服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="337" y="410" width="100" height="40" as="geometry" />
+          <mxGeometry x="260" y="410" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CvdLX2YhdFQQ_mZj3J4u-31" value="资源服务管理平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="717" y="390" width="90" height="40" as="geometry" />
+          <mxGeometry x="640" y="390" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
